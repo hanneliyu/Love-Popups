@@ -19,8 +19,8 @@ Love is like a virus, cause I can't stop thinking about you. I think I'm infecte
     15 秒后自动退出，避免持续干扰  
   - Supports shortcut key closure (Ctrl+Alt+Q or Ctrl+C).  
     支持快捷键关闭（Ctrl+Alt+Q 或 Ctrl+C）  
-  - A hidden main window has an exit button (uncomment root.deiconify() to display it).  
-    隐藏的主窗口中设有退出按钮（取消注释 root.deiconify() 即可显示）  
+  - A hidden main window has an exit button.  
+    隐藏的主窗口中设有退出按钮  
   
     
   
